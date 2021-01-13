@@ -1,2 +1,3 @@
 # Alpha-Centauri-n-body-problem
 To what extent can the three-body star system Centauri be considered a 2-body problem?
+The Alpha Centauri Star System contains Alpha Centauri A, Alpha Centauri B, and Alpha Centauri C. Alpha Centauri C is commonly referred to as Proxima Centauri, and it is very small in relation to Alpha Centauri A and B. This project will explore whether or not Alpha Centauri C can be ignored when calculating the motion of this Star System. Is Proxima Centauri's mass negligible, allowing it to be ignored when calculating the motion of the other bodies in the star system? Or does it have a significant impact on the motion of Alpha Centauri A and B?
